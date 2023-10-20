@@ -1,0 +1,8 @@
+--> Containers: Containers store objects and data. There are in total seven standard “first-class” 
+    container classes and three container adaptor classes and only seven header files that provide
+    access to these  container adaptors.
+--> sequence containers:- implement data structures which can be acccessed in a sequential manner.
+
+VECTORS:-
+--> Vectors in C++ are sequence containers representing arrays that can change their size during runtime. 
+--> syntax:- 
